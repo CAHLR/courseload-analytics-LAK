@@ -1,7 +1,18 @@
 # Course workload analytics
 
-Supplementary repository for peer review of manuscript "Insights into undergraduate pathways using course load analytics" submitted to LAK '23.
+Supplementary repository including data preprocessing, machine learning training, and data analysis code for manuscript "Insights into undergraduate pathways using course load analytics" accepted as full paper to LAK '23.
 
+Preprint: <to do>
+
+Citation:
+
+```
+# APA
+<to do>
+
+# BibTeX
+<to do>
+```
 ## Folder structure
 
 * `utils.py`: Collection of functions and classes used throughout scripts.
