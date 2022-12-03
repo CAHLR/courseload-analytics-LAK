@@ -2,7 +2,7 @@
 
 Supplementary repository including data preprocessing, machine learning training, and data analysis code for manuscript "Insights into undergraduate pathways using course load analytics" accepted as full paper to LAK '23.
 
-Preprint: <to do>
+Preprint: `<to do>`
 
 Citation:
 
