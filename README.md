@@ -2,13 +2,13 @@
 
 Supplementary repository including data preprocessing, machine learning training, and data analysis code for manuscript "Insights into undergraduate pathways using course load analytics" accepted as full paper to LAK '23.
 
-Preprint: `<to do>`
+Preprint: TBA
 
 Citation:
 
 ```
 # APA
-<to do>
+Borchers, C., & Pardos, Z. A. (2023). Insights into undergraduate pathways using course load analytics. In LAK23: 14th International Learning Analytics and Knowledge Conference. https://doi.org/10.1145/3576050.3576081
 
 # BibTeX
 <to do>
