@@ -6,7 +6,7 @@ Preprint: TBA
 
 Citation:
 
-```
+`
 # APA
 Borchers, C., & Pardos, Z. A. (2023). Insights into undergraduate pathways using course load analytics. In LAK23: 14th International Learning Analytics and Knowledge Conference. https://doi.org/10.1145/3576050.3576081
 
@@ -19,7 +19,7 @@ Borchers, C., & Pardos, Z. A. (2023). Insights into undergraduate pathways using
   url={https://doi.org/10.1145/3576050.3576081},
   year={2023}
 }
-```
+`
 ## Folder structure
 
 * `utils.py`: Collection of functions and classes used throughout scripts.
